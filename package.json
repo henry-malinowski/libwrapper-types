@@ -1,0 +1,14 @@
+{
+  "name": "libwrapper-types",
+  "version": "1.13.4.0",
+  "description": "TypeScript declarations for the libWrapper Foundry module API.",
+  "type": "module",
+  "types": "index.d.ts",
+  "exports": {
+    ".": "./index.d.ts"
+  },
+  "files": [
+    "index.d.ts"
+  ],
+  "license": "GPL-3.0-only"
+}
