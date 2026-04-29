@@ -1,6 +1,6 @@
 {
   "name": "libwrapper-types",
-  "version": "1.13.4.0",
+  "version": "1.13.4",
   "description": "TypeScript declarations for the libWrapper Foundry module API.",
   "type": "module",
   "types": "index.d.ts",
